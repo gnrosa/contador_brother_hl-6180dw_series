@@ -1,6 +1,4 @@
-import requests
-import re
-import time
+import requests, re, time
 
 print('Lendo lista...')
 lista = ['192.168.0.51',
